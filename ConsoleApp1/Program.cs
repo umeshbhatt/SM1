@@ -9,7 +9,7 @@ namespace ConsoleApp1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Test Prod1");
+            Console.WriteLine("Test Prod On Server");
 
         }
     }
